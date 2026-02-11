@@ -1,13 +1,13 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Hogyan alkalmazzák hatékonyan az EU migrációs és visszatérési mechanizmusát?",
+  "subtitle": "2025 első három negyedévében összesen 356 214 harmadik országbeli állampolgárt köteleztek elhagyni egy uniós országot. Közülük körülbelül 28%-uk (98 465) ténylegesen elhagyta az EU-t, többnyire önkéntesen.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az adatok a 2025 első, második és harmadik negyedévére vonatkozó adatokon alapulnak. Az adatokat a kiutasítási határozatok száma és a visszaküldött harmadik országbeli állampolgárok tényleges száma alapján számították ki. Az 1 feletti arányok a hátralékhatásokat tükrözik, ami azt jelenti, hogy az adott időszakban végrehajtott visszaküldések magukban foglalják a korábban elrendelt, de később végrehajtott ügyeket, nem csak az újonnan kiadott visszaküldési határozatokat.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "extraInfo_PT": "Az arány 434%. Az adat méretezési okokból nem került megjelenítésre.",
+  "legend1": "Nincsenek elérhető adatok",
+  "customUnitLabel": "távozásra utasították",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
