@@ -1,13 +1,13 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Ako sa účinne uplatňuje mechanizmus EÚ pre návrat migrantov?",
+  "subtitle": "V prvých troch štvrťrokoch roku 2025 bolo celkovo 356 214 štátnym príslušníkom tretích krajín nariadené opustiť krajinu EÚ. Z nich približne 28 % (98 465) skutočne opustilo EÚ, väčšinou dobrovoľne.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Údaje vychádzajú z údajov za 1., 2. a 3. štvrťrok 2025. Údaje sa vypočítavajú na základe počtu príkazov na opustenie územia a skutočného počtu vrátených občanov tretích krajín. Pomery nad 1 odrážajú vplyv nevybavených žiadostí, čo znamená, že návraty vykonané počas daného obdobia zahŕňajú prípady nariadené skôr, ale vykonané neskôr, a nie iba novovydané rozhodnutia o návrate.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
+  "extraInfo_PT": "Pomer je 434 %. Obrázok nie je zobrazený z dôvodu zmeny mierky.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
+  "customUnitLabel": "nariadil odísť",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
