@@ -1,13 +1,13 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cum este aplicat eficient mecanismul UE de returnare a migranților?",
+  "subtitle": "În primele trei trimestre ale anului 2025, un total de 356.214 resortisanți ai unor țări terțe au primit ordin să părăsească o țară a UE. Dintre aceștia, aproximativ 28% au părăsit efectiv UE (98.465), în mare parte în mod voluntar.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Cifre bazate pe date pentru T1, T2 și T3 din 2025. Cifrele sunt calculate pe baza numărului de ordine de plecare și a numărului real de cetățeni ai țărilor terțe care au fost returnați. Rapoartele peste 1 reflectă efectele restanțelor, ceea ce înseamnă că returnările executate în această perioadă includ cazuri dispuse anterior, dar implementate ulterior, mai degrabă decât decizii de returnare nou emise.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "extraInfo_PT": "Raportul este de 434%. Figura nu a fost vizualizată din motive de scalare.",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "ordonat să plece",
   "tooltipExtraInfoLabel": "Click aici"
 }
