@@ -1,13 +1,13 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kif qed jiġi applikat b'mod effettiv il-mekkaniżmu ta' ritorn tal-migrazzjoni tal-UE?",
+  "subtitle": "Fl-ewwel tliet kwarti tal-2025, total ta’ 356,214 ċittadin ta’ pajjiżi terzi ġew ordnati jitilqu minn pajjiż tal-UE. Minn dawn, madwar 28% effettivament ħarġu mill-UE (98,465), l-aktar volontarjament.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Ċifri bbażati fuq dejta għall-ewwel, it-tieni u t-tielet kwart tal-2025. Iċ-ċifri huma kkalkulati abbażi tal-għadd ta’ ordnijiet ta’ tluq u l-għadd attwali ta’ ċittadini ta’ pajjiżi terzi li ġew ritornati. Proporzjonijiet 'il fuq minn 1 jirriflettu l-effetti tal-arretrati, li jfisser li r-ritorni eżegwiti matul il-perjodu jinkludu każijiet ordnati qabel iżda implimentati aktar tard, aktar milli deċiżjonijiet ta’ ritorn maħruġa ġodda biss.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2025)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
+  "extraInfo_PT": "Il-proporzjon huwa 434%. Il-figura mhux viżwalizzata minħabba raġunijiet ta' skalar.",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "ordnat biex jitlaq",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
