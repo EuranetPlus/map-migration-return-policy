@@ -1,13 +1,13 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kuidas ELi rändealase tagasisaatmise mehhanismi tõhusalt rakendatakse?",
+  "subtitle": "2025. aasta esimese kolme kvartali jooksul anti kokku 356 214 kolmanda riigi kodanikule korraldus ELi riigist lahkuda. Neist umbes 28% (98 465) lahkus EList tegelikult, enamasti vabatahtlikult.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Arvud põhinevad 2025. aasta I, II ja III kvartali andmetel. Arvud on arvutatud lahkumiskorralduste arvu ja tagasi saadetud kolmandate riikide kodanike tegeliku arvu põhjal. Suhtarvud üle 1 kajastavad mahajäämuse mõju, mis tähendab, et sel perioodil täidetud tagasisaatmised hõlmavad varem määratud, kuid hiljem täidetud juhtumeid, mitte ainult äsja väljastatud tagasisaatmisotsuseid.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "extraInfo_PT": "Suhe on 434%. Joonist ei ole skaleerimise tõttu visualiseeritud.",
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "käskinud lahkuda",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
