@@ -1,13 +1,13 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kā efektīvi tiek piemērots ES migrācijas atgriešanas mehānisms?",
+  "subtitle": "2025. gada pirmajos trīs ceturkšņos kopumā 356 214 trešo valstu pilsoņiem tika izdots rīkojums pamest ES valsti. No tiem aptuveni 28 % (98 465) faktiski pameta ES, galvenokārt brīvprātīgi.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Skaitļi balstīti uz 2025. gada 1., 2. un 3. ceturkšņa datiem. Skaitļi ir aprēķināti, pamatojoties uz izbraukšanas rīkojumu skaitu un faktisko atgriezto trešo valstu pilsoņu skaitu. Attiecības, kas pārsniedz 1, atspoguļo kavējumu ietekmi, kas nozīmē, ka šajā periodā izpildītās atgriešanas ietver lietas, kas izdotas agrāk, bet īstenotas vēlāk, nevis tikai nesen izdotus atgriešanas lēmumus.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "extraInfo_PT": "Attiecība ir 434 %. Skaitlis nav vizualizēts mērogošanas apsvērumu dēļ.",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "pavēlēts aiziet",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
