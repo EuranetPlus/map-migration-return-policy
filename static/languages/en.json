@@ -1,13 +1,13 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How is the EU's migration return mechanism effectively applied?",
+  "subtitle": "In the first three quarters of 2025, a total of 356,214 third-country nationals were ordered to leave an EU country. Of these, around 28% effectively left the EU (98,465), mostly voluntarily.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Figures based on data for Q1, Q2 and Q3 of 2025. The figures are calculated based on the number of orders to leave and the actual number of third country citizens which have been returned. Ratios above 1 reflect backlog effects, meaning that returns executed during the period include cases ordered earlier but implemented later, rather than newly issued return decisions only.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
+  "extraInfo_PT": "Ratio is 434%. Figure not visualized for scaling reasons.",
   "legend1": "No data available",
+  "customUnitLabel": "of ordered to leave",
   "tooltipExtraInfoLabel": "Click here"
 }
