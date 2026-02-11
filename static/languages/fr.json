@@ -1,13 +1,13 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Comment le mécanisme de retour des migrants de l'UE est-il appliqué efficacement ?",
+  "subtitle": "Au cours des trois premiers trimestres de 2025, 356 214 ressortissants de pays tiers ont reçu l’ordre de quitter un pays de l’UE. Parmi eux, environ 28 % ont effectivement quitté l’UE (98 465), majoritairement de leur plein gré.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les chiffres sont basés sur les données des premier, deuxième et troisième trimestres 2025. Ils sont calculés en fonction du nombre d'ordres de départ et du nombre effectif de ressortissants de pays tiers renvoyés. Un ratio supérieur à 1 reflète l'effet d'arriéré, ce qui signifie que les renvois effectués durant la période incluent des cas ordonnés antérieurement mais traités ultérieurement, et non uniquement les décisions de renvoi récemment émises.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
+  "extraInfo_PT": "Le ratio est de 434 %. Figure non visualisée pour des raisons d'échelle.",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "de l'ordre de partir",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
