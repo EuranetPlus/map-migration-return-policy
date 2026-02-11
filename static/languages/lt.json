@@ -1,13 +1,13 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kaip veiksmingai taikomas ES migracijos grąžinimo mechanizmas?",
+  "subtitle": "Per pirmuosius tris 2025 m. ketvirčius iš viso 356 214 trečiųjų šalių piliečių buvo įpareigoti išvykti iš ES šalies. Iš jų apie 28 % (98 465) faktiškai išvyko iš ES, dauguma jų savanoriškai.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Skaičiai pagrįsti 2025 m. I, II ir III ketvirčių duomenimis. Skaičiai apskaičiuoti remiantis įsakymų išvykti skaičiumi ir faktiniu grąžintų trečiųjų šalių piliečių skaičiumi. Santykiai, didesni nei 1, atspindi susikaupusių prašymų poveikį, o tai reiškia, kad per šį laikotarpį įvykdyti grąžinimai apima anksčiau įsakytus, bet vėliau įvykdytus atvejus, o ne tik naujai išduotus grąžinimo sprendimus.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2025 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
+  "extraInfo_PT": "Santykis yra 434 %. Paveikslėlis nepateiktas dėl mastelio keitimo priežasčių.",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "įsakytas išvykti",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
