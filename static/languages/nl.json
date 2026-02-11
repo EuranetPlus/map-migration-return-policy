@@ -1,13 +1,13 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe wordt het terugkeermechanisme van de EU voor migranten daadwerkelijk toegepast?",
+  "subtitle": "In de eerste drie kwartalen van 2025 kregen in totaal 356.214 onderdanen van derde landen het bevel een EU-land te verlaten. Van hen verliet ongeveer 28% daadwerkelijk de EU (98.465), meestal vrijwillig.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Cijfers gebaseerd op gegevens voor het eerste, tweede en derde kwartaal van 2025. De cijfers zijn berekend op basis van het aantal uitzettingsbevelen en het daadwerkelijke aantal teruggestuurde burgers van derde landen. Verhoudingen boven de 1 weerspiegelen achterstanden, wat betekent dat de terugzendingen die in de periode zijn uitgevoerd, ook gevallen omvatten waarvoor eerder een bevel is uitgevaardigd maar die later zijn uitgevoerd, en niet alleen nieuw uitgevaardigde uitzettingsbevelen.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
+  "extraInfo_PT": "De verhouding is 434%. De afbeelding is om schaalredenen niet weergegeven.",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "van de opdracht om te vertrekken",
   "tooltipExtraInfoLabel": "Klik hier"
 }
