@@ -1,13 +1,13 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "W jaki sposób skutecznie wdrażany jest mechanizm powrotu imigrantów w UE?",
+  "subtitle": "W pierwszych trzech kwartałach 2025 roku nakazano opuszczenie kraju UE łącznie 356 214 obywatelom państw trzecich. Spośród nich około 28% (98 465) faktycznie opuściło UE, głównie dobrowolnie.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Dane oparte na danych za I, II i III kwartał 2025 r. Liczby te obliczono na podstawie liczby nakazów opuszczenia kraju oraz faktycznej liczby deportowanych obywateli państw trzecich. Współczynniki powyżej 1 odzwierciedlają skutki zaległości, co oznacza, że deportacje zrealizowane w tym okresie obejmują sprawy wydane wcześniej, ale zrealizowane później, a nie wyłącznie nowo wydane decyzje o wydaleniu.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2025)",
+  "linkDataAccessDescription": "Dostęp do danych",
+  "extraInfo_PT": "Współczynnik wynosi 434%. Dane nie są wizualizowane ze względu na skalę.",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "nakazano opuszczenie",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
