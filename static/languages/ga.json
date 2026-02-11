@@ -1,13 +1,13 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Conas a chuirtear sásra um fhilleadh imirce an AE i bhfeidhm go héifeachtach?",
+  "subtitle": "Sna trí ráithe tosaigh de 2025, ordaíodh do 356,214 náisiúnach tríú tír tír AE a fhágáil. Díobh seo, d’fhág thart ar 28% an AE go héifeachtach (98,465), den chuid is mó go deonach.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Figiúirí bunaithe ar shonraí do Ráithe 1, Ráithe 2 agus Ráithe 3 de 2025. Ríomhtar na figiúirí bunaithe ar líon na n-orduithe imeachta agus líon iarbhír na saoránach tríú tír atá curtha ar ais. Léiríonn cóimheasa os cionn 1 éifeachtaí riaráiste, rud a chiallaíonn go n-áirítear le cur ar ais le linn na tréimhse cásanna a ordaíodh níos luaithe ach a cuireadh i bhfeidhm níos déanaí, seachas cinntí um chur ar ais nua-eisiúna amháin.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2025)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "extraInfo_PT": "Is é 434% an cóimheas. Níor léiríodh an figiúr ar chúiseanna scálúcháin.",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "a ordaíodh dóibh imeacht",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
