@@ -1,13 +1,13 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Come viene applicato efficacemente il meccanismo di rimpatrio dei migranti dell'UE?",
+  "subtitle": "Nei primi tre trimestri del 2025, a un totale di 356.214 cittadini di paesi terzi è stato intimato di lasciare un paese dell'UE. Di questi, circa il 28% ha effettivamente lasciato l'UE (98.465), per lo più volontariamente.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Cifre basate sui dati del primo, secondo e terzo trimestre del 2025. Le cifre sono calcolate in base al numero di ordini di espulsione e al numero effettivo di cittadini di paesi terzi rimpatriati. I rapporti superiori a 1 riflettono gli effetti dell'arretrato, il che significa che i rimpatri eseguiti durante il periodo includono casi ordinati in precedenza ma implementati in seguito, anziché solo le nuove decisioni di rimpatrio emesse.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "extraInfo_PT": "Il rapporto è 434%. La cifra non è visualizzata per motivi di scala.",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "di ordinato di andarsene",
   "tooltipExtraInfoLabel": "clicca qui"
 }
