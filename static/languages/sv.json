@@ -1,13 +1,13 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur tillämpas EU:s mekanism för återvändande av migration effektivt?",
+  "subtitle": "Under de tre första kvartalen 2025 beordrades totalt 356 214 tredjelandsmedborgare att lämna ett EU-land. Av dessa lämnade cirka 28 % i praktiken EU (98 465), mestadels frivilligt.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Siffrorna baseras på data för första, andra och tredje kvartalet 2025. Siffrorna är beräknade utifrån antalet beslut om utresa och det faktiska antalet tredjelandsmedborgare som har återvänt. Kvoter över 1 återspeglar eftersläpningseffekter, vilket innebär att återvändanden som verkställts under perioden inkluderar ärenden som beordrats tidigare men genomförts senare, snarare än endast nyligen utfärdade beslut om återvändande.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2025)",
+  "linkDataAccessDescription": "Åtkomst till data",
+  "extraInfo_PT": "Förhållandet är 434 %. Figuren visualiseras inte av skalningsskäl.",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "beordrades att lämna",
   "tooltipExtraInfoLabel": "Klicka här"
 }
