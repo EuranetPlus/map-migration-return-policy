@@ -1,13 +1,13 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Miten EU:n muuttoliikkeen palautusmekanismia sovelletaan tehokkaasti?",
+  "subtitle": "Vuoden 2025 kolmen ensimmäisen neljänneksen aikana yhteensä 356 214 kolmannen maan kansalaista määrättiin poistumaan EU-maasta. Näistä noin 28 % (98 465) poistui EU:sta tosiasiallisesti, enimmäkseen vapaaehtoisesti.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Luvut perustuvat vuoden 2025 ensimmäisen, toisen ja kolmannen neljänneksen tietoihin. Luvut lasketaan lähtömääräysten lukumäärän ja palautettujen kolmansien maiden kansalaisten todellisen lukumäärän perusteella. Yli 1:n suhdeluvut heijastavat ruuhkan vaikutuksia, mikä tarkoittaa, että ajanjakson aikana toteutetut palautukset sisältävät aiemmin määrätyt, mutta myöhemmin täytäntöönpannut tapaukset, eivätkä ainoastaan uusia palauttamispäätöksiä.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "extraInfo_PT": "Suhde on 434 %. Lukua ei visualisoitu skaalaussyistä.",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "käsketty lähtemään",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
