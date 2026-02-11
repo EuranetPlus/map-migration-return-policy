@@ -1,13 +1,13 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Kako se učinkovito primjenjuje mehanizam EU-a za vraćanje migranata?",
+  "subtitle": "U prva tri tromjesečja 2025. ukupno 356.214 državljana trećih zemalja dobilo je nalog za napuštanje zemlje EU. Od toga je oko 28% efektivno napustilo EU (98.465), uglavnom dobrovoljno.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Brojke se temelje na podacima za prvo, drugo i treće tromjesečje 2025. Brojke se izračunavaju na temelju broja naloga za napuštanje zemlje i stvarnog broja vraćenih državljana trećih zemalja. Omjeri iznad 1 odražavaju učinke zaostataka, što znači da vraćanja izvršena tijekom razdoblja uključuju ranije naložene, ali kasnije provedene slučajeve, a ne samo novoizdane odluke o vraćanju.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2025.)",
+  "linkDataAccessDescription": "Pristup podacima",
+  "extraInfo_PT": "Omjer je 434%. Slika nije vizualizirana zbog skaliranja.",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "naređeno da ode",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
